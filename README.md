@@ -1,5 +1,5 @@
-# GyroMouse
-Is it a mouse? Is it a TV remote? No, it's GyroMouse! Gyromouse might look like a remote at first site, but as soon as you plug it into your computer with a USB-C cable, it is bound to no mouse pad nor any keyboard. 
+# AirMouse
+Is it a mouse? Is it a TV remote? No, it's AirMouse! Airmouse might look like a remote at first site, but as soon as you plug it into your computer with a USB-C cable, it is bound to no mouse pad nor any keyboard. 
 ### BOM:
 - 4 Cherry MX Switches
 - 1 Red Keycap
@@ -13,6 +13,8 @@ Is it a mouse? Is it a TV remote? No, it's GyroMouse! Gyromouse might look like 
 ### How to use:
 - Hold it with your left hand so that 4 of your fingers are over the keys. 
 - Plug it in via USB - C to the computer you want to connect it to.
+- Download the adafruit_adxl34x and the USB_HID library from adafruit(you can suffer with that yourself)
+- Open up mu editor and load the code.py file in and run the code via Ctrl+D
 - The left most button can be used as the left button on the mouse.
 - The center button as the scroll wheel.
 - The last white button on the right as the right button on a mouse.
