@@ -17,6 +17,7 @@ How to use:
 - The center button as the scroll wheel.
 - The last white button on the right as the right button on a mouse.
 - The red button, however, is used for morse code, so you can type basically anything via that!
+Link for Onshape: https://cad.onshape.com/documents/4fc8b66121dcef1dee428937/w/a901a4026d14a15e10552f1e/e/3820dfa20e6bcba16b00f4db
 
 
 
