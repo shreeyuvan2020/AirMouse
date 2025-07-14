@@ -23,10 +23,9 @@ Is it a mouse? Is it a TV remote? No, it's AirMouse! Airmouse might look like a 
 ## Wiring Diagram:
 ![circuit_image](https://github.com/user-attachments/assets/b4676dbb-b030-44ad-b83b-df202ca14503)
 ### Pictures of the mouse: 
-![77413715194__58706775-48F8-4ABF-BDAC-30C261C4FEFD](https://github.com/user-attachments/assets/e9220db3-a905-406a-81b9-f8c75a66e9c6)
+![IMG_0163](https://github.com/user-attachments/assets/ef96e7cb-f499-4f23-9a6e-d33f89a277af)
 
 ![IMG_0164 (1)](https://github.com/user-attachments/assets/d7846749-e3cf-41dd-b9f7-03b1286ba1d3)
 
-![IMG_0163](https://github.com/user-attachments/assets/ef96e7cb-f499-4f23-9a6e-d33f89a277af)
-
+![77413715194__58706775-48F8-4ABF-BDAC-30C261C4FEFD](https://github.com/user-attachments/assets/e9220db3-a905-406a-81b9-f8c75a66e9c6)
 
