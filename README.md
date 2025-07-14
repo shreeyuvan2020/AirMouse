@@ -20,6 +20,8 @@ Is it a mouse? Is it a TV remote? No, it's AirMouse! Airmouse might look like a 
 - The last white button on the right as the right button on a mouse.
 - The red button, however, is used for morse code, so you can type basically anything via that!
 ### Link for Onshape: https://cad.onshape.com/documents/4fc8b66121dcef1dee428937/w/a901a4026d14a15e10552f1e/e/3820dfa20e6bcba16b00f4db
+## Wiring Diagram: ![circuit_image](https://github.com/user-attachments/assets/b4676dbb-b030-44ad-b83b-df202ca14503)
+
 
 
 
