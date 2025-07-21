@@ -1,5 +1,9 @@
 # AirMouse
 Is it a mouse? Is it a TV remote? No, it's AirMouse! Airmouse might look like a remote at first site, but as soon as you plug it into your computer with a USB-C cable, it is bound to no mouse pad nor any keyboard. 
+
+### Demo
+https://youtu.be/a8gEKE2KixA
+
 ### BOM:
 - 4 [Cherry MX Switches](https://www.aliexpress.us/item/3256806239135691.html?src=google&pdp_npi=4%40dis%21USD%2117.28%2117.28%21%21%21%21%21%40%2112000037120671469%21ppc%21%21%21&src=google&albch=shopping&acnt=708-803-3821&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en3256806239135691&ds_e_product_merchant_id=768805967&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=20546179873&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=17337505674&gbraid=0AAAAAD6I-hGNpoJo-p6Pjvpmmr7w_2tnO&gclid=CjwKCAjw1dLDBhBoEiwAQNRiQSKCNz0dhiCE1Zw832gTx1BfP9YT6K5WxQJFqigNoPnF4y-wD6swKRoCVI8QAvD_BwE&gatewayAdapt=glo2usa)
 - 1 [Red Keycap](https://www.aliexpress.us/item/2251832656064603.html?spm=a2g0o.productlist.main.2.7cdf5af9LvtKDq&algo_pvid=56f986a6-8698-4a1d-b8ec-ce69b1542851&algo_exp_id=56f986a6-8698-4a1d-b8ec-ce69b1542851-1&pdp_ext_f=%7B%22order%22%3A%2277%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%213.99%213.74%21%21%213.99%213.74%21%40210330dd17525017763317617e28f3%2110000001467765233%21sea%21US%216288248210%21X&curPageLogUid=1wpTJcdyf9uC&utparam-url=scene%3Asearch%7Cquery_from%3A)
